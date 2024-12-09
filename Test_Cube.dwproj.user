@@ -1,0 +1,39 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Salary Payment DW</Id>
+            <Name>Salary Payment DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyRLj2AUB8EiaUL34VN6acQAAAAAkAAAAUwBhAGwAYQByAHkAIABQAGEAeQBtAGUAbgB0ACAARABXAAAAEGYAAAABAAAgAAAA1BJxJBgwiveea43sQuMK5S+lOFHI0Y9HOHWMyYAoruoAAAAADoAAAAACAAAgAAAAsST3CRAeDZ2AjHjchouVu7qlEt+aymxa6kmiLAgCu2YQAAAA59CbBIArWsGscTjdrHO7rEAAAACMfm0F+Zdpovn5WkzbKXjxgHQwo6c1KZG3Qc1d8RXnq5jqMcpr3vijrR2wxfbLTWdxS6Fy3TLPXy50AT/fbqJ6</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Salary Payment DW 1</Id>
+            <Name>Salary Payment DW 1</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyRLj2AUB8EiaUL34VN6acQAAAAAoAAAAUwBhAGwAYQByAHkAIABQAGEAeQBtAGUAbgB0ACAARABXACAAMQAAABBmAAAAAQAAIAAAAPR+ODBCS2zRMEwVuKlaAgo2vIts2vTkRafMXBD645SdAAAAAA6AAAAAAgAAIAAAAJV0yWhTkt9HA/gU/la1E8raWE9rA6JeMZaO/cEGmiKBEAAAANjTZLC6FT/1gJUzkMxOTnVAAAAAapWlBUGCrkho5Zl+oUhGfq+QjXceXkiR2hURCsx4dFnuO8ImBmmxD23uXTr+VhDMBqB0LPrpzh7DTjzlssXbCA==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Salary Payment DW</Id>
+            <Name>Salary Payment DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyRLj2AUB8EiaUL34VN6acQAAAAAkAAAAUwBhAGwAYQByAHkAIABQAGEAeQBtAGUAbgB0ACAARABXAAAAEGYAAAABAAAgAAAAZOZPH46cnUdSidQdqOVESmPJUwrFLqMao9zTpTiCRxQAAAAADoAAAAACAAAgAAAAwXSwSIi4lKQ3pDSJguWHGqWI2GCNKjrO0Ab1MQLZHAwgAAAAaS/M7UoZTxm1RBDlzQDFAgzYVmJSHcNrZF6Iir5y21xAAAAAucePfqFPqK7FQBEgVBJLOHey8f05A4GNQI2KTYZenu6/bWoeeTcSQArAMkz0Nj7YjhnnCljr1UaBu4E833nH4A==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Salary Payment DW 1</Id>
+            <Name>Salary Payment DW 1</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyRLj2AUB8EiaUL34VN6acQAAAAAoAAAAUwBhAGwAYQByAHkAIABQAGEAeQBtAGUAbgB0ACAARABXACAAMQAAABBmAAAAAQAAIAAAAOjz7/Ga2kjAff5qslN8wIiAOV4tQS3M6tQYXxnFSkMjAAAAAA6AAAAAAgAAIAAAAB9GY3otPkmzpjxwoBOx9yCcMxcJo7vjE6bpIgsO5VHpIAAAABNUVXum9gz4kV1uvPfZ8nlGPMYGcx1DaBHqW6rNIXoCQAAAAELz8jXlyY8/Ojg8gLgS4sa1G3h3WUb3nxDfV4daSxwtecoH20fEeL8HVkpzclS8pQUP0AQa/C6p67m5yEMeLkM=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>NB-YULIA</TargetServer>
+        <TargetDatabase>Test_Cube</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>

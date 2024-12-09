@@ -1,0 +1,89 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Test_Cube</Database>
+    <Server>NB-YULIA</Server>
+    <ConnectionString>Data Source=NB-YULIA;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>6VKyPWvXYjsXOoXGnvvvuEbJGM0=05.12.2024 20:59:4805.12.2024 20:59:48</TimeStamp>
+        <ID>
+          <String>Salary Payment DW</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>AoV0iaq6WbLJhtfH7bkvPG4ev3Q=05.12.2024 21:05:0405.12.2024 21:05:04</TimeStamp>
+        <ID>
+          <String>Salary Payment DW</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>vxp5LLTw01HZMuScDT0VFE87vqg=05.12.2024 21:19:4305.12.2024 21:05:37</TimeStamp>
+        <ID>
+          <String>Dim Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>RgToB62sJ2n5WzQULKv/V2fyVuc=05.12.2024 21:19:4305.12.2024 21:06:43</TimeStamp>
+        <ID>
+          <String>Dim Structural Unit</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>zDGATHj5+3UH1qrmVXcJKt7rwBk=05.12.2024 21:19:4305.12.2024 21:06:43</TimeStamp>
+        <ID>
+          <String>Dim Employee</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>1wuLzfoKpTCBRR1ZNdr6HvehBcE=05.12.2024 21:19:4305.12.2024 21:06:43</TimeStamp>
+        <ID>
+          <String>Dim Vacation</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>icf0k8rTqw9ourMJTk/Ac6qYnxg=05.12.2024 21:19:4305.12.2024 21:06:43</TimeStamp>
+        <ID>
+          <String>Dim Position</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>tLFgxqa+3pgBCV8KtpBrNsonyQM=06.12.2024 14:32:2205.12.2024 21:06:43NfJ+oGl60006sEcfYlnb+WP17WQ=05.12.2024 21:24:5805.12.2024 21:06:43</TimeStamp>
+        <ID>
+          <String>Salary Payment DW</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>YiDF/pdECc0KlukwexJ6uxFMEdw=05.12.2024 20:58:1905.12.2024 20:58:19</TimeStamp>
+      <ID>
+        <String>Test_Cube</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-12-06T14:11:29.836667Z</LastDeployed>
+</DeploymentSnapshot>

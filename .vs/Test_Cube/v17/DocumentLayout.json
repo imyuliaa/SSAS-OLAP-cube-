@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Salary Payment DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|solutionrelative:Salary Payment DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Employee.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|solutionrelative:Dim Employee.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Position.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|solutionrelative:Dim Position.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Vacation.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|solutionrelative:Dim Vacation.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Structural Unit.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{576F3FE8-C833-4E83-A8E6-50EA9579827B}|Test_Cube.dwproj|solutionrelative:Dim Structural Unit.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Salary Payment DW.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Salary Payment DW.cube",
+              "RelativeDocumentMoniker": "Salary Payment DW.cube",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Salary Payment DW.cube [Design]",
+              "RelativeToolTip": "Salary Payment DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T19:06:43.885Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T19:05:37.579Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Vacation.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Vacation.dim",
+              "RelativeDocumentMoniker": "Dim Vacation.dim",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Vacation.dim [Design]",
+              "RelativeToolTip": "Dim Vacation.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T19:17:02.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Position.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Position.dim",
+              "RelativeDocumentMoniker": "Dim Position.dim",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Position.dim [Design]",
+              "RelativeToolTip": "Dim Position.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T19:17:09.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Employee.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Employee.dim",
+              "RelativeDocumentMoniker": "Dim Employee.dim",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Employee.dim [Design]",
+              "RelativeToolTip": "Dim Employee.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T19:16:44.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Structural Unit.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Structural Unit.dim",
+              "RelativeDocumentMoniker": "Dim Structural Unit.dim",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041D\u0410\u0414\u0412\u0415\u041B\u0418\u041A\u0406 \u0411\u0410\u0417\u0418 \u0414\u0410\u041D\u0418\u0425\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\\Test_Cube\\Dim Structural Unit.dim [Design]",
+              "RelativeToolTip": "Dim Structural Unit.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T19:13:23.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
